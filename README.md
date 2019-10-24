@@ -18,6 +18,8 @@ César Fernando Ortiz Rocha
 #### Es una librería que permite analizar:
 
 •	Probabilidad del sistema de estar en una posición después de realizarse una observación.
+
+![image](https://user-images.githubusercontent.com/54223085/67444403-7bc3ac00-f5ce-11e9-9f1e-046d5787b7b4.png)
  
 •	Amplitud de transición de un estado inicial a un estado final.
  
